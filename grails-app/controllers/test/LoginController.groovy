@@ -11,7 +11,7 @@ class LoginController {
     	URL apiUrl = new URL(apiStr)
     	def card = new JsonSlurper().parseText(apiUrl.text)
     	if (card.token) {
-    		redirect(action: "home")
+    		redirect(controller:"Profesores" ,action: "index")
     	}else{
     		redirect(action: "login")
     	}

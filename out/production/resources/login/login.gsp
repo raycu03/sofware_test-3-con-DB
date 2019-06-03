@@ -7,9 +7,11 @@
 <body>
 	<div id="log" class="content scaffold-create" role="main" align="center">
             <g:form controller="Login" action="loginAuth">
+                <p>codigo</p>
                 <fieldset class="form">
                    <input type="text" name="username">
                 </fieldset>
+                <p>contraseña</p>
                 <fieldset class="form">
                    <input type="password" name="password">
                 </fieldset> 

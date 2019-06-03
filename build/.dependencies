@@ -180,4 +180,6 @@ dependencies:
 - file:/C:/Users/anton/.gradle/caches/modules-2/files-2.1/org.jodd/jodd-log/3.7.1/82ffa458f1f0e9f48c22bff31bbd1f3635b44fc7/jodd-log-3.7.1.jar
 profiles:
 - file:/C:/Users/anton/.m2/repository/org/grails/profiles/web/3.3.3/web-3.3.3.jar
+- file:/C:/Users/anton/.gradle/caches/modules-2/files-2.1/org.grails.profiles/web-plugin/3.3.0/2c56c515f7878d59c24a219cb61244f22bac0768/web-plugin-3.3.0.jar
 - file:/C:/Users/anton/.m2/repository/org/grails/profiles/base/3.3.3/base-3.3.3.jar
+- file:/C:/Users/anton/.gradle/caches/modules-2/files-2.1/org.grails.profiles/plugin/3.2.3/afaab4883fb3200eecb1b93789b45ed29ba1bbb9/plugin-3.2.3.jar

@@ -4,10 +4,8 @@
     <meta name="layout" content="main"/>
     <title>Dispo app</title>
 </head>
-<body>
 
-
-
+<body >
 
 <div id="content" role="main">
     <section class="row colset-2-its">

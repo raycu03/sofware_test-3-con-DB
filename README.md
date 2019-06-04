@@ -17,8 +17,8 @@ Download Project
 
 Download grails.
 
-1.Download grails 3.3.10 from https://grails.org/
-2.Extract anywhere on your computer.
+1. Download grails 3.3.10 from https://grails.org/
+2. Extract anywhere on your computer.
 3. add the path “$\grails-3.3.9\bin” on environment variables. #note in the $ put the directory where you extracted the file. this in windows
 
 Install mysql server.

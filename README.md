@@ -49,5 +49,4 @@ dataSource:
 7. Later enter command “run-app”
 8. Enter to the Url that grails show;
 
-
-in case of error you must make a modification to the file build.gradle give a space or enter and save.
+In case of error you must make a modification to the file build.gradle give a space or press the enter key and save.

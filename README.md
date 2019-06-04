@@ -49,3 +49,6 @@ dataSource:
 7. Later enter command “run-app”
 8. Enter to the Url that grails show;
 
+
+in case it goes "error | Error occurred running Grails CLI: No profile found for name [web]. (Use --stacktrace to see the full trace)". enter to the file build.gradle and uncomment the instruction profile "org.grails.profiles: web-plugin"
+
